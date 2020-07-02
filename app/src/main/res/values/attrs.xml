@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShowLogView">
+        <attr name="peekHeight" format="integer" />
+        <attr name="isHideable" format="boolean" />
+    </declare-styleable>
+
+</resources>

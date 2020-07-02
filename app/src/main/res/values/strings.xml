@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Log Component</string>
+    <string name="west">WEST</string>
+    <string name="east">EAST</string>
+    <string name="south">SOUTH</string>
+    <string name="north">NORTH</string>
+</resources>
